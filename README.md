@@ -5,13 +5,13 @@ A responsive and interactive portfolio showcasing my skills, projects and journe
 ## 📑 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
+- [Unique New Future](#unique)
 - [Live Demo](#live-demo)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Technologies](#technologies)
 - [License](#license)
 - [Contact](#contact)
-- 
 <h2 id="overview">🌟 Overview</h2>
 <p>My portfolio website showcases my skills, projects and achievements in web development and digital marketing. It features a unique interactive terminal interface, modern design elements and seamless responsiveness across all devices.</p>
 
@@ -24,7 +24,7 @@ A responsive and interactive portfolio showcasing my skills, projects and journe
 
 <h2 id="features">✨ Features</h2>
 
-### 💻 Interactive Terminal
+<h3 id="unique">💻 Interactive Terminal</h3>
 - Custom CLI interface with multiple commands
 - Dynamic ASCII art displays
 - Command history navigation
