@@ -12,10 +12,9 @@ A responsive and interactive portfolio showcasing my skills, projects and journe
 - [Technologies](#technologies)
 - [License](#license)
 - [Contact](#contact)
-
-## 🌟 Overview
-
-My portfolio website showcases my skills, projects, and achievements in web development and digital marketing. It features a unique interactive terminal interface, modern design elements, and seamless responsiveness across all devices.
+- 
+<h2 id="overview">🌟 Overview</h2>
+<p>My portfolio website showcases my skills, projects and achievements in web development and digital marketing. It features a unique interactive terminal interface, modern design elements and seamless responsiveness across all devices.</p>
 
 ### 🎯 Key Highlights
 - Interactive CLI-style navigation
