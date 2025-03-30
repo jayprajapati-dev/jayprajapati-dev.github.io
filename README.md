@@ -5,7 +5,7 @@ A responsive and interactive portfolio showcasing my skills, projects and journe
 ## 📑 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Unique New Future](#unique)
+- [Best Future](#unique)
 - [Live Demo](#live-demo)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
