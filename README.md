@@ -1,6 +1,6 @@
-# Jay Prajapati - Developer Portfolio 🚀
+# Jay Prajapati - Deve Portfolio
 
-A modern, responsive, and interactive portfolio showcasing my skills, projects, and journey in Web Development & Digital Marketing. Designed with performance, aesthetics, and user experience in mind.
+A responsive and interactive portfolio showcasing my skills, projects and journey in Web Development & Digital Marketing. Designed for performance, aesthetics, and a smooth user experience with Some New Unique Futures.
 
 ## 📑 Table of Contents
 - [Overview](#overview)
