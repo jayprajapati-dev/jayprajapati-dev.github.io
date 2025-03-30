@@ -581,7 +581,7 @@ const cliCommands = {
             'Contact Information:',
             '',
             'Professional:',
-            '• Email: [Your Email]',
+            '• Email: prajapatijay17112007@gmail.com',
             '• LinkedIn: linkedin.com/in/jayprajapati171120',
             '',
             'Social:',
