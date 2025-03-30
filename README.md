@@ -6,7 +6,6 @@ A responsive and interactive portfolio showcasing my skills, projects and journe
 - [Overview](#overview)
 - [Features](#features)
 - [Live Demo](#live-demo)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Technologies](#technologies)
@@ -23,7 +22,7 @@ A responsive and interactive portfolio showcasing my skills, projects and journe
 - Professional animations
 - Mobile-first design
 
-## ✨ Features
+<h2 id="features">✨ Features</h2>
 
 ### 💻 Interactive Terminal
 - Custom CLI interface with multiple commands
@@ -65,17 +64,10 @@ A responsive and interactive portfolio showcasing my skills, projects and journe
   - Screen reader friendly
   - High contrast support
 
-## 🔴 Live Demo  
+<h2 id="live-demo">🔴 Live Demo</h2>
 🎉 **Check it out here:** 👉 [jayprajapati.dev](https://jayprajapati-dev.github.io)  
 
-## ⚙️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/jayprajapati-dev/jayprajapati-dev.github.io.git
-   ```
-
-## 🎯 Usage
+<h2 id="usage">🎯 Usage</h2>
 
 ### Terminal Commands
 The portfolio features an interactive terminal. Try these commands:
@@ -94,7 +86,7 @@ The portfolio features an interactive terminal. Try these commands:
 - Toggle theme using the theme switcher
 - Click project cards for detailed information
 
-## 📁 Project Structure
+<h2 id="project-structure">📁 Project Structure</h2>
 ```
 jayprajapati-dev.github.io/
 ├── css/
@@ -111,7 +103,7 @@ jayprajapati-dev.github.io/
 └── README.md            # Documentation
 ```
 
-## 🛠️ Technologies
+<h2 id="technologies">🛠️ Technologies</h2>
 
 ### Core Technologies
 - HTML5
@@ -127,10 +119,10 @@ jayprajapati-dev.github.io/
 - Chrome DevTools
 - GitHub Pages
 
-## 📄 License  
+<h2 id="license">📄 License</h2>
 This project is licensed under the **MIT License**, meaning you are free to use, modify, and distribute it with proper attribution. See the [LICENSE](LICENSE) file for details.
 
-## 📬 Contact  
+<h2 id="contact">📬 Contact</h2>
 - 📩 **LinkedIn:** [Jay Prajapati](https://linkedin.com/in/jayprajapati171120)  
 - 🐙 **GitHub:** [@jayprajapati-dev](https://github.com/jayprajapati-dev)  
 - 📷 **Instagram:** [@prajapati_jay_1711](https://instagram.com/prajapati_jay_1711)  
