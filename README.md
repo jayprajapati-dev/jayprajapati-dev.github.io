@@ -6,7 +6,7 @@
 
 ## 💼 About Me
 
-Hello! I'm **Jay Prajapati**, an enthusiastic **Information Technology student (GTU, Sem 4)** dedicated to building smart, efficient, and visually engaging web experiences. My passion lies in combining **technology + design + marketing** to create impactful solutions that address real-world challenges.
+Hello! I'm Jay Prajapati, a passionate Information Technology student (GTU) focused on crafting smart, efficient and visually engaging web experiences. I thrive at the intersection of technology, design and marketing—turning creative ideas into impactful digital solutions that solve real-world problems.
 
 - 🔭 Currently building: `Star Tournament Platform` and a `Smart Water Automation Device`
 - 🎯 Personal mission: Launch successful startups and support my family through meaningful tech ventures.
