@@ -2,8 +2,6 @@
 
 > Crafting meaningful digital experiences by blending technology, design and marketing expertise.
 
-*Banner idea: A sleek futuristic dashboard interface showcasing code snippets, terminal windows, and digital growth charts — symbolizing Jay’s fusion of development, marketing, and data-driven creativity.*
-
 ---
 
 ## 💼 About Me
