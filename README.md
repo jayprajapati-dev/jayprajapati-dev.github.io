@@ -1,135 +1,60 @@
-# Jay Prajapati - Deve Portfolio
+<h1 align="center">Hi 👋, I'm Jay Prajapati</h1>
+<h3 align="center">A Creative Web Developer & Digital Marketing Enthusiast</h3>
 
-A responsive and interactive portfolio showcasing my skills, projects and journey in Web Development & Digital Marketing. Designed for performance, aesthetics, and a smooth user experience with Some New Unique Futures.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayprajapati-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jayprajapati-dev" />
+</p>
 
-## 📑 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Best Future](#unique)
-- [Live Demo](#live-demo)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technologies](#technologies)
-- [License](#license)
-- [Contact](#contact)
-<h2 id="overview">🌟 Overview</h2>
-<p>My portfolio website showcases my skills, projects and achievements in web development and digital marketing. It features a unique interactive terminal interface, modern design elements and seamless responsiveness across all devices.</p>
+---
 
-### 🎯 Key Highlights
-- Interactive CLI-style navigation
-- Smart theme switching (Dark/Light)
-- Dynamic semester calculation
-- Professional animations
-- Mobile-first design
+## 🚀 About Me
 
-<h2 id="features">✨ Features</h2>
+- 🌱 I’m currently learning **GSAP, AI Tools, and UI/UX animation**
+- 🎯 My goal: **Build useful tools & grow as a business developer**
+- 💬 Ask me about **Frontend, GitHub Pages, and Digital Marketing**
+- 🌐 Portfolio: [jayprajapati.dev](https://jayprajapati-dev.github.io)
 
-<h3 id="unique">💻 Interactive Terminal</h3>
-- Custom CLI interface with multiple commands
-- Dynamic ASCII art displays
-- Command history navigation
-- Real-time output
-- Smart semester calculation
-- Multiple display themes
+---
 
-### 🎨 Design & UI
-- **Responsive Layout**
-  - Mobile-first approach
-  - Fluid typography
-  - Flexible grid system
-  - Breakpoint optimization
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
-- **Theme System**
-  - Light/Dark mode toggle
-  - System preference detection
-  - Persistent theme settings
-  - Smooth transitions
+---
 
-- **Navigation**
-  - Smart header with scroll effects
-  - Mobile-friendly menu
-  - Smooth section scrolling
-  - Active state indicators
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayprajapati-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayprajapati-dev&theme=tokyonight" />
+</p>
 
-### 🛠 Technical Features
-- **Performance**
-  - Optimized assets
-  - Lazy loading
-  - Minimal dependencies
-  - Fast load times
+---
 
-- **Accessibility**
-  - ARIA labels
-  - Keyboard navigation
-  - Screen reader friendly
-  - High contrast support
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayprajapati-dev&layout=compact&theme=tokyonight" />
+</p>
 
-<h2 id="live-demo">🔴 Live Demo</h2>
-🎉 **Check it out here:** 👉 [jayprajapati.dev](https://jayprajapati-dev.github.io)  
+---
 
-<h2 id="usage">🎯 Usage</h2>
+## 🧠 Featured Projects
+| Project | Description | Live Link |
+|--------|-------------|-----------|
+| 🔗 **Interactive Portfolio** | CLI style terminal web portfolio with ASCII and theme toggles | [Live Demo](https://jayprajapati-dev.github.io) |
+| 🚀 **Digital Marketing Dashboard** | Analytics-focused website for campaigns and SEO | Coming soon |
 
-### Terminal Commands
-The portfolio features an interactive terminal. Try these commands:
-- `help` - List all available commands
-- `about` - Learn about me
-- `skills` - View my technical skills
-- `projects` - See my projects
-- `contact` - Get my contact info
-- `theme` - Toggle dark/light mode
-- `ascii` - Display ASCII art
-- `education` - View my education details
+---
 
-### Navigation
-- Use the navigation menu for quick section access
-- Try the terminal for a unique browsing experience
-- Toggle theme using the theme switcher
-- Click project cards for detailed information
-
-<h2 id="project-structure">📁 Project Structure</h2>
-```
-jayprajapati-dev.github.io/
-├── css/
-│   ├── about.css          # About page styles
-│   └── styles.css         # Main styles
-├── js/
-│   ├── about.js           # About page functionality
-│   └── script.js          # Main JavaScript & Terminal
-├── images/
-│   └── profile.jpg        # Profile image
-├── about.html             # About & Projects page
-├── index.html             # Main entry point
-├── LICENSE               # MIT license
-└── README.md            # Documentation
-```
-
-<h2 id="technologies">🛠️ Technologies</h2>
-
-### Core Technologies
-- HTML5
-- CSS3 (Custom Properties)
-- JavaScript (ES6+)
-- Bootstrap 5
-- GSAP (animations)
-- Font Awesome
-
-### Development Tools
-- Visual Studio Code
-- Git & GitHub
-- Chrome DevTools
-- GitHub Pages
-
-<h2 id="license">📄 License</h2>
-This project is licensed under the **MIT License**, meaning you are free to use, modify, and distribute it with proper attribution. See the [LICENSE](LICENSE) file for details.
-
-<h2 id="contact">📬 Contact</h2>
-- 📩 **LinkedIn:** [Jay Prajapati](https://linkedin.com/in/jayprajapati171120)  
-- 🐙 **GitHub:** [@jayprajapati-dev](https://github.com/jayprajapati-dev)  
-- 📷 **Instagram:** [@prajapati_jay_1711](https://instagram.com/prajapati_jay_1711)  
+## 💬 Let's Connect
+- 📩 [LinkedIn](https://linkedin.com/in/jayprajapati171120)
+- 🐙 [GitHub](https://github.com/jayprajapati-dev)
+- 📷 [Instagram](https://instagram.com/prajapati_jay_1711)
 
 ---
 
 <div align="center">
-  🚀 Made with ❤️ by <b>Jay Prajapati</b>  
-  <br>Let's connect and build something amazing together! 🌍✨  
+  Made with ❤️ by <b>Jay Prajapati</b>
 </div>
