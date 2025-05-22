@@ -1,8 +1,6 @@
 # 👨‍💻 Jay Prajapati | Web Developer & Digital Marketer
 
-> 🚀 Crafting meaningful digital experiences by blending technology, design, and marketing expertise.
-
-[![Jay's GitHub Banner](https://raw.githubusercontent.com/jayprajapati-dev/jayprajapati-dev.github.io/main/images/preview.png)](https://jayprajapati-dev.github.io)
+> Crafting meaningful digital experiences by blending technology, design and marketing expertise.
 
 *Banner idea: A sleek futuristic dashboard interface showcasing code snippets, terminal windows, and digital growth charts — symbolizing Jay’s fusion of development, marketing, and data-driven creativity.*
 
