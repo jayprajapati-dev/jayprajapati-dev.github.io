@@ -1,60 +1,72 @@
-<h1 align="center">Hi 👋, I'm Jay Prajapati</h1>
-<h3 align="center">A Creative Web Developer & Digital Marketing Enthusiast</h3>
+# 👨‍💻 Jay Prajapati | Web Developer & Digital Marketer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayprajapati-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jayprajapati-dev" />
-</p>
+> 🚀 Transforming ideas into digital experiences. Specializing in web development, creative problem solving, and digital growth strategies.
 
----
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning **GSAP, AI Tools, and UI/UX animation**
-- 🎯 My goal: **Build useful tools & grow as a business developer**
-- 💬 Ask me about **Frontend, GitHub Pages, and Digital Marketing**
-- 🌐 Portfolio: [jayprajapati.dev](https://jayprajapati-dev.github.io)
+[![Jay's GitHub Banner](https://raw.githubusercontent.com/jayprajapati-dev/jayprajapati-dev.github.io/main/images/preview.png)](https://jayprajapati-dev.github.io)
 
 ---
 
-## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+## 💼 About Me
+
+Hi! I'm **Jay Prajapati**, a passionate **Information Technology student (GTU, Sem 4)**, focused on building smart, efficient, and beautiful web experiences. I'm on a mission to combine **tech + design + marketing** into impactful projects that solve real-world problems.
+
+- 🔭 Currently working on: `ExamGPT`, `Star Tournament Platform`, and a `Smart Water Automation Device`
+- 🎯 Goals: Crack top tech roles at Google/Microsoft, build a profitable startup, and support my family.
+- 🧠 Interests: JavaScript, AI Bots, UI/UX, Startup Ideas, Terminal UIs, and Productivity Tools
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayprajapati-dev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayprajapati-dev&theme=tokyonight" />
-</p>
+## 🚀 Tech Stack
+
+**Languages & Frameworks:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+**Tools & Platforms:**  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/-DevTools-4285F4?logo=google-chrome&logoColor=white)
 
 ---
 
-## 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayprajapati-dev&layout=compact&theme=tokyonight" />
-</p>
+## 🔥 Projects
+
+### 🎯 **Developer Terminal Portfolio**
+An interactive CLI-style portfolio website to showcase my skills, projects, and terminal UI innovation.  
+[🔗 Live Demo](https://jayprajapati-dev.github.io)
+
+### 🧠 **ExamGPT Buddy** *(Work in Progress)*
+AI-powered tool that generates GTU-style answers, notes & Q&A for students.
+
+### 🏆 **Star Tournament Platform**
+A platform to host Free Fire tournaments with QR payments, admin panels, and more.
+
+### 💧 **Smart Water Tank Automation** *(Prototype Stage)*
+Offline IoT device to automate water control and prevent overflow.
 
 ---
 
-## 🧠 Featured Projects
-| Project | Description | Live Link |
-|--------|-------------|-----------|
-| 🔗 **Interactive Portfolio** | CLI style terminal web portfolio with ASCII and theme toggles | [Live Demo](https://jayprajapati-dev.github.io) |
-| 🚀 **Digital Marketing Dashboard** | Analytics-focused website for campaigns and SEO | Coming soon |
+## 📈 GitHub Stats
+
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayprajapati-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayprajapati-dev&layout=compact&theme=radical)
 
 ---
 
-## 💬 Let's Connect
-- 📩 [LinkedIn](https://linkedin.com/in/jayprajapati171120)
-- 🐙 [GitHub](https://github.com/jayprajapati-dev)
-- 📷 [Instagram](https://instagram.com/prajapati_jay_1711)
+## 📫 Let's Connect
+
+- 🌐 **Portfolio:** [jayprajapati.dev](https://jayprajapati-dev.github.io)  
+- 💼 **LinkedIn:** [linkedin.com/in/jayprajapati171120](https://linkedin.com/in/jayprajapati171120)  
+- 🐱 **GitHub:** [@jayprajapati-dev](https://github.com/jayprajapati-dev)  
+- 📷 **Instagram:** [@prajapati_jay_1711](https://instagram.com/prajapati_jay_1711)
 
 ---
+
+> "Never let your parents be unhappy. Dream big, work smart, and stay grounded."
 
 <div align="center">
-  Made with ❤️ by <b>Jay Prajapati</b>
+  Made with ❤️ by <strong>Jay Prajapati</strong> — Building digital dreams from code.
 </div>
