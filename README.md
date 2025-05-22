@@ -65,5 +65,5 @@ An interactive CLI-style portfolio website that highlights my skills, projects, 
 > "Stay curious, build boldly, and always keep your roots grounded in family and purpose."
 
 <div align="center">
-  Made with ❤️ by <strong>Jay Prajapati</strong> — Turning code into meaningful impact.
+  Created by <strong>Jay Prajapati</strong> — Turning code into meaningful impact.
 </div>
