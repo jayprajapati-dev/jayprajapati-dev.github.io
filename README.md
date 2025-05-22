@@ -10,7 +10,7 @@ Hello! I'm Jay Prajapati, a passionate Information Technology student (GTU) focu
 
 - 🔭 Currently building: `Star Tournament Platform` and a `Smart Water Automation Device`
 - 🎯 Personal mission: Launch successful startups and support my family through meaningful tech ventures.
-- 🧠 Interests: JavaScript, Python, C programming, UI/UX design, IoT, terminal-based tools, and productivity boosters.
+- 🧠 Interests: JavaScript, Python, C programming, UI/UX design, IoT, terminal-based tools and productivity boosters.
 
 ---
 
@@ -35,13 +35,13 @@ Hello! I'm Jay Prajapati, a passionate Information Technology student (GTU) focu
 ## 🔥 Projects
 
 ### 🏆 **Star Tournament Platform**  
-A full-featured platform to organize Free Fire tournaments, complete with QR code payments, admin panels, and user management.
+A full-featured platform to organize Free Fire tournaments, complete with QR code payments, admin panels and user management.
 
 ### 💧 **Smart Water Tank Automation** *(Prototype)*  
 An offline IoT solution to monitor and automate water levels, preventing overflow and saving water efficiently.
 
 ### 🎯 **Developer Terminal Portfolio**  
-An interactive CLI-style portfolio website that highlights my skills, projects, and passion for terminal UI innovation.  
+An interactive CLI-style portfolio website that highlights my skills, projects and passion for terminal UI innovation.  
 [🔗 Live Demo](https://jayprajapati-dev.github.io)
 
 ---
