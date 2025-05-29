@@ -4,13 +4,13 @@
 
 ---
 
-## 💼 About Me
+## About Me
 
 Hello! I'm Jay Prajapati, a passionate Information Technology student (GTU) focused on crafting smart, efficient and visually engaging web experiences. I thrive at the intersection of technology, design and marketing—turning creative ideas into impactful digital solutions that solve real-world problems.
 
-- 🔭 Currently building: `Star Tournament Platform` and a `Smart Water Automation Device`
-- 🎯 Personal mission: Launch successful startups and support my family through meaningful tech ventures.
-- 🧠 Interests: JavaScript, Python, C programming, UI/UX design, IoT, terminal-based tools and productivity boosters.
+- Currently building: `Star Tournament Platform` and a `Smart Water Automation Device`
+- 🎯Personal mission: Launch successful startups and support my family through meaningful tech ventures.
+- Interests: JavaScript, Python, C programming, UI/UX design, IoT, terminal-based tools and productivity boosters.
 
 ---
 
@@ -53,7 +53,7 @@ An interactive CLI-style portfolio website that highlights my skills, projects a
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 🌐 **Portfolio:** [jayprajapati.dev](https://jayprajapati-dev.github.io)  
 - 💼 **LinkedIn:** [linkedin.com/in/jayprajapati171120](https://linkedin.com/in/jayprajapati171120)  
